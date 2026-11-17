@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sunamp provides compact thermal energy storage solutions for hot water, heating and cooling across residential, commercial and industrial sectors. Their Thermino and Optimino product lines store heat using phase change material, enabling efficient heat‑pump and solar PV integration, and supporting applications from domestic hot water to large‑scale thermal networks. Sunamp focuses on sustainable energy storage, offering customizable designs and warranty registration to meet diverse building needs.
+Sunamp designs and manufactures compact thermal energy storage solutions for hot water, heating and cooling across residential, commercial and industrial sectors. Their products, such as Thermino and Optimino heat batteries, aim to improve energy efficiency, reduce carbon emissions and enable renewable integration. Headquartered in the United Kingdom with offices in New York and Zurich, Sunamp serves global markets and provides technical resources, case studies and support for installers and specifiers.
 
-**Areas:** Company · Energy · ThermalStorage · Sustainable · Heating
+**Areas:** Company · Energy · Thermal Storage · Heat Batteries · Sustainability
 
 ## Sunamp on APIs.io
 
@@ -93,7 +93,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 7.9** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 9.4** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -102,7 +102,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 17.0 |
+| Access clarity | 21.1 |
 
 **Agent readiness 3.1** — human-only
 
@@ -131,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 6.6** — Energy & Utilities
+**Regulatory alignment 11.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sunamp/](https://apis.io/providers/sunamp/).
 
